@@ -5,7 +5,7 @@
 
 这个仓库涵盖了论文的主要代码。包括论文提出的模型**ODEformer**以及相关实验。
 
-##**实验一：基线比较实验**
+## **实验一：基线比较实验**
 
   - [x] **Pyraformer** - Pyraformer: Low-complexity Pyramidal Attention for Long-range Time Series Modeling and Forecasting [[ICLR 2022]](https://openreview.net/pdf?id=0EXmFzUn5I) [[Code]](https://github.com/thuml/Time-Series-Library/blob/main/models/Pyraformer.py)
   - [x] **Autoformer** - Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting [[NeurIPS 2021]](https://openreview.net/pdf?id=I55UqU-M11y) [[Code]](https://github.com/thuml/Time-Series-Library/blob/main/models/Autoformer.py)
@@ -23,7 +23,7 @@
 <img width="418" alt="1680970683705" src="https://user-images.githubusercontent.com/91870223/230731870-dedc9833-1efa-46c4-80ae-6c60b8b5f1a3.png">
 
 
-##**实验二：组件消融实验**（Trans_embed、Trans_spilt）
+## **实验二：组件消融实验**（Trans_embed、Trans_spilt）
 
 **NODE-embed 组件：**
 
@@ -39,7 +39,7 @@
 <img width="446" alt="1680970020228" src="https://user-images.githubusercontent.com/91870223/230731374-6ce14aa1-620b-4066-9a19-8ac989a5ad74.png">
 
 
-##**实验三：NODE验证实验**(try_withoutCNN、try_withoutTCN)
+## **实验三：NODE验证实验**(try_withoutCNN、try_withoutTCN)
 
 <img width="438" alt="1680970558549" src="https://user-images.githubusercontent.com/91870223/230731779-faf5a087-42d0-4b99-b8ae-72d0dc6b01d8.png">
 
