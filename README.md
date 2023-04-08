@@ -19,6 +19,9 @@ Reformer:
 **实验结果：**
 
 <img width="418" alt="1680970472475" src="https://user-images.githubusercontent.com/91870223/230731713-5685e857-fdd7-4d74-a742-c4c64d93a602.png">
+<img width="420" alt="1680970656134" src="https://user-images.githubusercontent.com/91870223/230731852-0280b625-8b1e-437f-b189-0f7406d24e19.png">
+<img width="418" alt="1680970683705" src="https://user-images.githubusercontent.com/91870223/230731870-dedc9833-1efa-46c4-80ae-6c60b8b5f1a3.png">
+
 
 **实验二：组件消融实验**（Trans_embed、Trans_spilt）
 
