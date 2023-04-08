@@ -13,15 +13,8 @@
   - [x] **Reformer** - Reformer: The Efficient Transformer [[ICLR 2020]](https://openreview.net/forum?id=rkgNKkHtvB) [[Code]](https://github.com/thuml/Time-Series-Library/blob/main/models/Reformer.py)
   - [x] **Transformer** - Attention is All You Need [[NeurIPS 2017]](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) [[Code]](https://github.com/thuml/Time-Series-Library/blob/main/models/Transformer.py)
 
-Autoformer:
 
-Informer:
-
-Pyraformer:
-
-Reformer:
-
-此外特别感谢对本文代码实现的启发。
+此外特别感谢**[[Time-Series-Library]](https://github.com/thuml/Time-Series-Library)**对本文代码实现的启发。
 
 **实验结果：**
 
