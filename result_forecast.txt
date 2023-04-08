@@ -1,0 +1,4 @@
+
+forecast_test_No-cnn_ETTm1_qld2020.csv_ftS_sl6_ll6_pl8_dm256_nh8_el2_dl3_df512_fc1_ebtimeF_dtTrue_test_0  
+mse:0.11888732016086578, mae:0.2473815381526947,mape:1.6740193367004395
+
